@@ -1,6 +1,8 @@
 name: obspy-binder-example
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - rf
+  - obspy
+  - pip
+  - pip:
+    - rt
