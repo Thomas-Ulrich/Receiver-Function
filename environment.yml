@@ -1,0 +1,5 @@
+name: obspy-binder-example
+channels:
+  - conda-forge
+dependencies:
+  - rf
