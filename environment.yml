@@ -5,4 +5,4 @@ dependencies:
   - obspy
   - pip
   - pip:
-    - rt
+    - rf
